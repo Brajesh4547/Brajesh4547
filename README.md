@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brajesh4547&label=Profile%20views&color=0e75b6&style=flat" alt="Brajesh4547" /> </p>
 
 
-
-
 <h3 align="left">🙋‍♂️ About Me:</h3><br>
 
 - 🌱 I’m currently working:: <b>PowerApps & Power Automate.</b><br>
