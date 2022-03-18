@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+<a href="#"><img width="50%" height="auto"  src="https://github.com/Brajesh4547/Brajesh4547/blob/main/programmer-concept-illustration_114360-2923.webp" height="45px" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Brajesh Kumar Singh</h1>
 <h3 align="center">A Microsoft Certified Cloud Engineer</h3>
 
