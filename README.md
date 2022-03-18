@@ -14,7 +14,7 @@
 
 - 👨‍💻 Check Out:: **[My Portfolio](https://bajeshsinhsekhawat.netlify.app/)**<br>
 
-
+- 👨‍💻 Check Out:: **[My Resume](https://github.com/Brajesh4547/Brajesh4547/blob/main/BRAJESH's%20Resume%20(16).pdf)**<br>
 
 - 📫 How to reach me:: **[Linkedin](https://in.linkedin.com/in/brajeshsinghrajput)**<br>
 
