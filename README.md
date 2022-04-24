@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on:: <b>OpenSource Projects</b>
 
-- 👨‍💻 Check Out:: **[My Portfolio](https://bajeshsinhsekhawat.netlify.app/)**<br>
+- 👨‍💻 Check Out:: **[My Portfolio](https://brajeshsinghsekhawat.netlify.app/)**<br>
 
 - 👨‍💻 Check Out:: **[My Resume](https://github.com/Brajesh4547/Brajesh4547/blob/main/BRAJESH's%20Resume-22.pdf)**<br>
 
